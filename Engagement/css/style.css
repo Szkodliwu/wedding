@@ -116,7 +116,7 @@ p {
 .hero {
 	min-height: 100vh;
 	position: relative;
-	background-image: url('/Project/Engagement/assets/img/photographs-into.jpeg');
+	background-image: url('/assets/img/photographs-into.jpeg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
